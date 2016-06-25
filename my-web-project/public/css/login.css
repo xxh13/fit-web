@@ -1,0 +1,56 @@
+.outer-wrapper{
+     background-image: url("/image/sky.jpg");
+     background-size: cover;
+     min-height: 520px;
+ }
+
+.inner-wrapper{
+    padding-top: 100px;
+    max-width: 850px;
+}
+
+.login-left{
+    background-image: url("/image/userbg.jpg");
+    background-size: cover;
+    min-height: 310px;
+}
+
+.login-right{
+    background-color: rgba(102,102,102,0.3);
+    min-height: 310px;
+    color: #fff;
+}
+
+.id-group{
+    margin-top: 30px;
+}
+
+.login-btn{
+    margin-top: 30px;
+    background-color: #9966FF;
+}
+
+.login-btn:hover{
+    background-color: #4b7bff;
+    font-weight: bolder;
+    /*color: #ffb114;*/
+    color: white;
+}
+
+.form-footer{
+    margin-top: 15px;
+}
+
+.form-footer{
+    cursor: default;
+}
+
+.form-footer>a{
+    color: #00adee;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.form-footer>a:hover{
+    color: #ffe023;
+}

@@ -1,0 +1,105 @@
+section.container-header{
+    position: relative;
+    padding: 15px 15px 0 15px;
+}
+
+.container-header>h1{
+    margin: 0px;
+    font-size: 24px;
+    font-family: 'Source Sans Pro',sans-serif;
+}
+
+.container-header>small{
+    display: inline-block;
+}
+
+.breadcrumb{
+    position: absolute;
+    float: right;
+    font-size: 14px;
+    padding: 7px 5px;
+    top: 15px;
+    right: 80px;
+
+    background-color: transparent;
+}
+
+.breadcrumb>li>a{
+    text-decoration: none;
+    color: #444;
+}
+
+.container-body{
+    margin-left: 8%;
+    margin-top: 30px;
+    overflow: hidden;
+}
+
+.box.box-info {
+    border-top-color: #00c0ef;
+}
+
+.box {
+    position: relative;
+    border-radius: 3px;
+    background: #ffffff;
+    border-top: 3px solid #d2d6de;
+    margin-bottom: 30px;
+    width: 80%;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+
+    overflow: hidden;
+}
+
+.form-control{
+    width: 80%;
+    display: inline;
+    margin-left: 30px;
+}
+
+textarea.content{
+    height: 30%;
+    margin-left: 65px;
+}
+
+select.form-control{
+    width: 30%;
+}
+
+.box-body{
+    margin-top: 20px;
+
+    margin-left: 10px;
+    margin-right: 20px;
+
+    padding-right: 20px;
+}
+
+label.content-label{
+    display: block;
+}
+
+label.end-time{
+    margin-left: 35px;
+}
+
+.my-timepicker{
+    margin-left: 10px;
+    width: 30%;
+    display: inline;
+}
+
+div.date{
+    display: inline;
+}
+
+.my-btn-group{
+    float: right;
+    margin-right: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input.my-sm-btn{
+    width: 80px;
+}

@@ -1,0 +1,131 @@
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: azure;
+}
+
+div.home-user{
+    height:60px;
+    width: 150px;
+    float: right;
+}
+
+div.home_header{
+    height: 60px;
+    background-color: darkkhaki;
+}
+
+div.home-user-content{
+    margin-top: 15px;
+}
+
+li{
+    margin-top: 15px;
+    list-style: none;
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+div.home_header a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+.user-image{
+    width: 200px;
+    height: 200px;
+    border: 5px solid white;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.content .user-name{
+    font-size: 25px;
+    text-align: center;
+    color: #444444;
+    font-weight: bold;
+}
+
+div.div_left_border{
+    border-left: 1px solid #a1a19c;
+}
+
+div.div_bottom_border{
+    border-bottom: 1px solid #a1a19c;
+}
+
+div.my_form{
+    margin-left: 30px;
+}
+
+form textarea.mood{
+    height: 80px;
+}
+
+dl.my_btn{
+    text-align: right;
+}
+
+div.mood_container{
+    margin-left: 40px;
+}
+
+span img.my_img{
+    height: 50px;
+    width:50px;
+}
+
+span label.my_name{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+div.user-mood{
+    margin-left: 60px;
+}
+
+div.create-time{
+    text-align: right;
+}
+
+h2.my-h2{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+div.today-info{
+    margin-left: 100px;
+}
+
+div.sports-info-day1{
+    height:200px;
+    width: 200px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: #ffe873;
+}
+div.sports-info-day2{
+    height:200px;
+    width: 200px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: #9e9bff;
+}
+div.sports-info-day3{
+    height:200px;
+    width: 200px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: #bdffe3;
+}
+
+p.my-text{
+    margin-top: 50px;
+}

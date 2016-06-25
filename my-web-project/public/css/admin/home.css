@@ -1,0 +1,46 @@
+
+div.body_head{
+    background-color: #000000;
+    height: 80px;
+}
+
+div.blank50{
+    height: 50px;
+}
+
+div.div_right_border{
+    border-right: 1px solid #a1a19c;
+    height: 600px;
+    text-align: center;
+}
+
+table{
+    width: 800px;
+}
+
+thead.head{
+    background-color: #808080;
+    height: 50px;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+td.head{
+    width: 200px;
+    height: 50px;
+    margin-left: 20px;
+}
+
+tr.info{
+    height:40px;
+    font-size: 15px;
+}
+
+span.blank20{
+    width: 30px;
+}
+
+form.my_form{
+    display: inline;
+}

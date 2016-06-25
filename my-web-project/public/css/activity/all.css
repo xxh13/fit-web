@@ -1,0 +1,85 @@
+section.container-header{
+    position: relative;
+    padding: 15px 15px 0 15px;
+}
+
+.container-header>h1{
+    margin: 0px;
+    font-size: 24px;
+}
+
+.container-header>small{
+    display: inline-block;
+}
+
+.breadcrumb{
+    position: absolute;
+    float: right;
+    font-size: 14px;
+    padding: 7px 5px;
+    top: 15px;
+    right: 80px;
+
+    background-color: transparent;
+}
+
+.breadcrumb>li>a{
+    text-decoration: none;
+    color: #444;
+}
+
+section.container-body{
+    margin-top: 30px;
+    margin-left: 8%;
+    border-top: 3px solid #00c0ef ;
+}
+
+.pagination>li>a{
+    text-decoration: none;
+    color: #666;
+}
+
+ul.pagination-sm{
+    right: 20px;
+    margin-right: 80px;
+}
+
+div.box-header{
+    margin-top: 15px;
+    overflow: hidden;
+}
+
+div.box-body{
+    padding: 10px;
+}
+
+table.no-margin{
+    margin: 0px;
+}
+
+.table>tbody>tr>td{
+    border: none;
+    padding-top: 15px;
+}
+
+.table>thead>tr>td{
+    border-bottom: none;
+    font-weight: bold;
+}
+
+
+
+.table>tbody>tr>td.info-button{
+   padding-top: 4px;
+}
+
+.box-bottom{
+    overflow: hidden;
+    margin-top: 20px;
+    float: right;
+    margin-right: 80px;
+}
+
+.button-container>a{
+    text-decoration: none;
+}

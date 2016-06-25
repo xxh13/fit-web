@@ -1,0 +1,47 @@
+div.head {
+    background-color: #000000;
+    color: #ffffff;
+    height: 80px;
+    width: 100%;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+label.head{
+    margin-top: 10px;
+}
+div.div_right_border{
+    border-right: 1px solid #a1a19c;
+    height: 600px;
+}
+
+div.img_container{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+img.my_img{
+    height: 200px;
+    width: 200px;
+}
+
+div.user_panel{
+    background-color: #000000;
+    color: #ffffff;
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+div.info{
+    height: 50px;
+}
+
+div.blank40{
+    height: 40px;
+    width: 100%;
+}
+
+div.my_btn_group{
+    text-align: center;
+}

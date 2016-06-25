@@ -1,0 +1,75 @@
+div.head{
+    height: 80px;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+}
+
+label.head{
+    margin-top: 10px;
+}
+
+div.div_right_border{
+    border-right: 1px solid #a1a19c;
+    height: 600px;
+}
+
+div.img_container{
+    margin-left: 30px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+div.text-container{
+    margin-left: 30px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+label.my_name{
+    font-size: 20px;
+}
+
+div img.my_img{
+    height: 200px;
+    width: 200px;
+}
+
+div.blank10{
+    height: 10px;
+    width: 100%;
+}
+
+div.info_container{
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+div.info{
+    height: 50px;
+    margin-top: 10px;
+}
+
+div.div_bottom_border{
+    border-bottom: 1px solid #a1a19c;
+}
+
+span.my_img{
+    margin-left: 30px;
+}
+
+span img.my_img{
+    height: 50px;
+    width: 50px;
+}
+
+span label.participator_name{
+    font-size: 20px;
+}
+
+div.my_btn{
+    text-align: center;
+}

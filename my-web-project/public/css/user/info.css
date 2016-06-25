@@ -1,0 +1,58 @@
+body{
+    background-color: azure;
+}
+
+div.home_header{
+    height: 60px;
+    background-color: darkkhaki;
+}
+
+li{
+    margin-top: 15px;
+    list-style: none;
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+div.home_header a{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+
+div.home-user{
+    height:60px;
+    width: 150px;
+    float: right;
+}
+
+div.home-user-content{
+    margin-top: 10px;
+}
+
+.container{
+    height: 500px;
+}
+
+.col-sm-4{
+    height: 300px;
+}
+
+
+.btn-group-vertical{
+    width: 140px;;
+}
+
+footer{
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+
+footer p{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 25px;
+    text-shadow: aliceblue;
+}

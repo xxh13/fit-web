@@ -1,0 +1,108 @@
+section.container-header{
+    position: relative;
+    padding: 15px 15px 0 15px;
+}
+
+.container-header>h1{
+    margin: 0;
+    font-size: 24px;
+    font-family: 'Source Sans Pro',sans-serif;
+}
+
+.container-header>small{
+    display: inline-block;
+}
+
+.breadcrumb{
+    position: absolute;
+    float: right;
+    font-size: 14px;
+    padding: 7px 5px;
+    top: 15px;
+    right: 80px;
+
+    background-color: transparent;
+}
+
+.breadcrumb>li>a{
+    text-decoration: none;
+    color: #444;
+}
+
+.container-body{
+    margin-left: 5%;
+    width: 80%;
+    margin-top: 20px;
+}
+
+.info-panel{
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.info-panel>table>tbody>tr{
+    height: 300px;
+}
+
+.info-panel>table>tbody>tr>td{
+    height: 280px;
+    width: 240px;
+
+    /*background-color: #fff;*/
+
+    margin-left: 20px;
+
+    border: none;
+
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+}
+
+/*.table>tbody>tr>td*/
+
+.modal-body>form>div.btn-container{
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.modal, .modal-body{
+    overflow: hidden;
+}
+
+textarea.my-textarea{
+    height: 80px;
+}
+
+td>.panel{
+    height: 100%;
+    /*border: 3px solid #3c8dbc;*/
+    margin: 3px;
+}
+
+td>.panel>.panel-heading{
+    background-color: #31b0d5;
+}
+
+td>.panel>.panel-heading>img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid #444;
+}
+
+td>.panel>.panel-body{
+    height: 185px;
+    letter-spacing: 1px;
+    padding: 25px;
+}
+
+td>.panel>.panel-heading>span{
+    margin-left: 3px;
+    color: white;
+}
+
+td>.panel>.panel-footer{
+    background-color: white;
+    border: none;
+}
